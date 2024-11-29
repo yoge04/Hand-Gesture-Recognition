@@ -56,6 +56,10 @@ pip install mediapipe opencv-python
 - **Sign language recognition**: Helps in understanding and interpreting sign language gestures.
 - **Interactive UIs**: Can be used for controlling interfaces through gestures.
 - **Virtual Reality (VR) and Gaming**: Gesture controls for immersive experiences.
+  ## Check the Output
+
+You can check the output  [Here](https://www.linkedin.com/feed/update/urn:li:activity:7268304502959616002/).
+
 
 ## Contributing
 
